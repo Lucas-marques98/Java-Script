@@ -9,3 +9,6 @@ console.log(umaString.length);
 
 console.log(umaString.slice (2, 10))
 // Comando que fatia a String e Busca a caractere Numérica (slice = fatiar)
+
+console.log(umaString.slice (-5))
+// Retorna o Valor da String de Trás pra frente

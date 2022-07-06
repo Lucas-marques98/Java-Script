@@ -8,4 +8,3 @@ console.log(NomedaVariavel + "  o texto que quer exibir");
 
 console.log(`${NomedaVariavel} e o texto a ser exibido`) //template strings
 
-//só estou fazendo um teste
